@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    font-size: 23px;
+    margin: 0;
+    padding: 10px 5px;
+    border-radius: 9px;
+    border: 2px solid black;
+    width: 280px;
+}
+.body{
+    background-color: beige;
+}
